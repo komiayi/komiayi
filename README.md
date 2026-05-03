@@ -10,6 +10,13 @@ Master's in applied statistics with a specialization in **causal modeling** for 
 
 ---
 
+## 📖 Research
+
+**Master's thesis (UQAM, 2025) — supervised by Prof. Karim Oualkacha:**  
+*Analyse de médiation causale pour des médiateurs non causalement liés.*  
+[Read on Archipel UQAM →](https://archipel.uqam.ca/19950) · 
+[Companion R Shiny app: rbcm →](https://github.com/komiayi/rbcm)
+
 ## Featured projects
 
 ### [Ligue 1 strategic forecasting engine](https://github.com/komiayi/Ligue-1)
