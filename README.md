@@ -29,7 +29,7 @@ Multinomial logistic regression model predicting match outcomes for the 2025–2
 ### [Mediation analysis with unmeasured confounding](https://github.com/komiayi/dna_mediation)
 *R · Causal inference · Biostatistics*
 
-Research project on the effect of childhood trauma on cortisol stress reactivity, mediated by DNA methylation. Implements advanced statistical methods to correct for bias arising when mediators share an unmeasured common cause.
+Research project on the effect of childhood trauma on cortisol stress reactivity, mediated by DNA methylation. Implements advanced statistical methods to correct for bias arising when mediators share an unmeasured common cause. A companion R Shiny tool — rbcm — implements these methods interactively.
 
 ### [Waze churn prediction](https://github.com/komiayi/churn-waze-prediction-)
 *Python · Random Forest · XGBoost*
