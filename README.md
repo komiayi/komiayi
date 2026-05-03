@@ -24,14 +24,14 @@ Master's in applied statistics with a specialization in **causal modeling** for 
 
 Multinomial logistic regression model predicting match outcomes for the 2025–2026 French Ligue 1, deployed as an interactive Streamlit dashboard. Processes offensive efficiency and defensive resilience metrics to output win/draw/loss probabilities.
 
-**[→ Try the live app](https://ligue-1-predictor.streamlit.app/)**
+**[→ Try the live app](https://ligue-1-predictor.streamlit.app/)** 
 
 ### [Mediation analysis with unmeasured confounding](https://github.com/komiayi/dna_mediation)
 *R · Causal inference · Biostatistics*
 
-Research project on the effect of childhood trauma on cortisol stress reactivity, mediated by DNA methylation. Implements advanced statistical methods to correct for bias arising when mediators share an unmeasured common cause. A companion R Shiny tool — rbcm — implements these methods interactively.
+Research project on the effect of childhood trauma on cortisol stress reactivity, mediated by DNA methylation. Implements advanced statistical methods to correct for bias arising when mediators share an unmeasured common cause. A companion R Shiny tool — [rbcm](https://github.com/komiayi/rbcm) — implements these methods interactively.
 
-### [Waze churn prediction](https://github.com/komiayi/churn-waze-prediction-)
+### [Waze churn prediction](https://github.com/komiayi/churn-waze-prediction)
 *Python · Random Forest · XGBoost*
 
 End-to-end churn modeling pipeline including feature engineering, dynamic threshold optimization for F1 maximization, and feature-importance interpretation of the best-performing model.
