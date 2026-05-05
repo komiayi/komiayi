@@ -10,7 +10,7 @@ Master's in applied statistics with a specialization in **causal modeling** for 
 
 ---
 
-## 📖 Research
+## Research
 
 **Master's thesis (UQAM, 2025) — supervised by Prof. Karim Oualkacha:**  
 *Analyse de médiation causale pour des médiateurs non causalement liés.*  
