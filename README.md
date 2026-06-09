@@ -19,6 +19,12 @@ Master's in applied statistics with a specialization in **causal modeling** for 
 
 ## Featured projects
 
+### [COVID-19 Québec dashboard – Wave-by-wave analysis](https://github.com/komiayi/covid-19-quebec-powerbi)
+
+*Power BI · Power Query (M) · Public health analytics*
+
+Power BI dashboard analyzing the evolution of COVID-19 in Québec across 7 waves + endemic period (Feb. 2020 – Sep. 2023), using INSPQ open data. Built on a star schema with two reusable parameterized M functions handling the tricky source structure (duplicate column names, sex encoded in headers, position-dependent indicators). Fully reproducible — loads data directly from INSPQ URLs.
+
 ### [Ligue 1 strategic forecasting engine](https://github.com/komiayi/Ligue-1)
 *Python · Scikit-Learn · Streamlit*
 
