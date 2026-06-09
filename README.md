@@ -53,7 +53,8 @@ End-to-end churn modeling pipeline including feature engineering, dynamic thresh
 | **Languages** | Python · R · SQL |
 | **Python** | Pandas · NumPy · Scikit-Learn · SciPy · Matplotlib · Streamlit |
 | **R** | dplyr · tidyr · caret · ggplot2 · rpart · randomForest |
-| **Tools** | Tableau · SQLiteStudio · Git |
+| **BI**        | Power BI · Power Query (M) · DAX · Tableau                     |
+| **Tools**     | SQLiteStudio · Git                                             |
 
 ## Certifications
 
