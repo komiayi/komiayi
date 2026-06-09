@@ -2,7 +2,7 @@
 
 **Statistician · Data Scientist · Research & Innovation**
 
-Master's in applied statistics with a specialization in **causal modeling** for health research. I focus on rigorous methodology and decision-oriented data analysis, with applied work spanning public health, behavioral data, and predictive modeling.
+Master's in applied statistics with a specialization in **causal modeling** for health research. I focus on rigorous methodology and decision-oriented data analysis, with applied work spanning public health analytics, BI dashboarding, behavioral data, and predictive modeling.
 
 **[Full portfolio →](https://komiayi.github.io)**
 
